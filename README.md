@@ -116,7 +116,7 @@ This learning plan is centered around [SpecRLBench](https://github.com/BU-DEPEND
 # 50-Hour Sprint Storage Structure
 
 ## Main Directory  
-`C:\users\abdul\python-multiagent-training\`
+[https://github.com/akhaled247/rise_python_training](https://github.com/akhaled247/rise_python_training)
 
 ## Folder Structure
 
