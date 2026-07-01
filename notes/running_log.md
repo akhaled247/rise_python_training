@@ -1,7 +1,6 @@
 # Python.org Tutorials
 
-## Sources
-[https://docs.python.org/3/tutorial/introduction.html](https://docs.python.org/3/tutorial/introduction.html)
+## [Documentation](https://docs.python.org/3/tutorial/introduction.html)
 
 *Note: probably going to use this only for information I did not know beforehand; also not taking notes on strings since that information won't be useful in an RL workspace*
 
@@ -74,3 +73,19 @@ class DerivedClass(MyClass): # analogous to `classB extends classA` in Java
     def fun(self, arg):
         # changes here will not affect `__fun`
 ```
+# Numpy Tutorials
+
+
+## [Documentation](https://numpy.org/doc/stable/user/quickstart.html)
+
+`ndarray`
+- Multi-dimensional array != Python `array.array` type
+
+--
+# Gymnasium 
+### Q-Learning
+Basically, the agent builds an action-reward matrix, and based on the values of the matrix it chooses the option with the most reward
+- Rows: States that an agent can encounter
+- Columns: Actions that an agent can take
+- Values: Reward for that action-state pair
+Learning is done by continuously updating the Q-table until it settles into an optimal policy
