@@ -138,7 +138,7 @@
 # 50-Hour Sprint Storage Structure
 
 ## Main Directory  
-`C:\users\abdul\python-multiagent-training\`
+[https://github.com/akhaled247/rise_python_training](https://github.com/akhaled247/rise_python_training)
 
 ## Folder Structure
 
